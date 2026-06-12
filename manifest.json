@@ -1,0 +1,9 @@
+{
+  "name": "IWI!運営ツール",
+  "short_name": "IWI!運営",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a73e8",
+  "theme_color": "#1a73e8",
+  "icons": []
+}
